@@ -6,7 +6,7 @@ Senior Product Manager & Agile Coach
 I turn messy problems into products people use, and I'm building AI-assisted workflows for product teams.
 
 ## Featured
-- [Product and Project Manager Skills](https://github.com/matheusmello00/Agile-Delivery-Skills)  – My own Product Manager skills for daily basis.
+- [Product and Project Manager Skills](https://github.com/matheusmello00/Product-and-Project-Manager-Skills)  – My own Product Manager skills for daily basis.
 - [Agile Delivery Skills](https://github.com/matheusmello00/Agile-Delivery-Skills) – My own Agile Coach skills for daily basis.
 
 ## Currently exploring
