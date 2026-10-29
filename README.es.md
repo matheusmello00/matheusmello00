@@ -25,14 +25,11 @@
 | Skills para **Product/Project Managers** (discovery, priorización, specs) | [Product and Project Manager Skills](https://github.com/matheusmello00/Product-and-Project-Manager-Skills) |
 | Skills para **Agile Coaches** (facilitación, delivery, retros) | [Agile Delivery Skills](https://github.com/matheusmello00/Agile-Delivery-Skills) |
 
-## 🚀 Destacados
-
-- **[Product and Project Manager Skills](https://github.com/matheusmello00/Product-and-Project-Manager-Skills)** – Mis propias skills de Product Manager para el día a día.
-- **[Agile Delivery Skills](https://github.com/matheusmello00/Agile-Delivery-Skills)** – Mis propias skills de Agile Coach para el día a día.
-
 ## 🔭 Explorando ahora
 
-Skills de Claude Code para **discovery**, **priorización** y **facilitación**.
+- 🤖 **Claude Architect** (preparación para la certificación) y flujos avanzados de Claude Code
+- 📈 **Product Analytics & Growth** (discovery y escalado basados en datos)
+- 🚀 Iniciativas de **AI Builder** e integración de IA en el SDLC
 
 <div align="center">
 
