@@ -4,7 +4,7 @@
 
 <img src="assets/banner.svg" alt="Matheus Mello — Senior Product Manager & Agile Coach" width="100%">
 
-*Transformo problemas em produtos que as pessoas usam, e estou construindo fluxos de trabalho assistidos por IA para times de produto e projeto.*
+*Transformo problemas em produtos que as pessoas usam, e estou construindo fluxos de trabalho assistidos por IA para times de produto e projeto!*
 
 <a href="https://www.linkedin.com/in/matheusmello00/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:m.mello00@outlook.com"><img src="https://img.shields.io/badge/Email-Fale%20comigo-6D1A36?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
