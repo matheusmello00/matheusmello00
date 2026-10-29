@@ -4,7 +4,7 @@
 
 <img src="assets/banner.svg" alt="Matheus Mello — Senior Product Manager & Agile Coach" width="100%">
 
-*I turn problems into products people use, and I'm building AI-assisted workflows for product and project teams.*
+*I turn problems into products people use, and I'm building AI-assisted workflows for product and project teams!*
 
 <a href="https://www.linkedin.com/in/matheusmello00/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:m.mello00@outlook.com"><img src="https://img.shields.io/badge/Email-Say%20hello-6D1A36?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
