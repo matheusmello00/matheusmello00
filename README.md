@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**matheusmello00/matheusmello00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Matheus Mello
+Senior Product Manager & Agile Coach 
 
-Here are some ideas to get you started:
+I turn messy problems into products people use, and I'm building AI-assisted workflows for product teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured
+- [repo-1](link) – My own Product Manager skills for daily basis.
+- [repo-2](link) – My own Agile Coach skills for daily basis.
+
+## Currently exploring
+Claude Code skills for discovery, prioritization and facilitation.
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/matheusmello00/) · [Email](mailto:m.mello00@outlook.com) · [WhatsApp](https://wa.me/351920102358)
