@@ -30,9 +30,3 @@
 - 🤖 **Claude Architect** (Certification Prep) & Claude Code advanced workflows
 - 📈 **Product Analytics & Growth** (Data-informed discovery & scaling)
 - 🚀 **AI Builder** initiatives and AI-driven SDLC integration
-
-<div align="center">
-
-<sub>🌐 <b>English</b> · <a href="README.pt.md">Português</a> · <a href="README.es.md">Español</a></sub>
-
-</div>

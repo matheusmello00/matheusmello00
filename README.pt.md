@@ -30,9 +30,3 @@
 - 🤖 **Claude Architect** (preparação para certificação) e fluxos avançados do Claude Code
 - 📈 **Product Analytics & Growth** (discovery e escala orientados por dados)
 - 🚀 Iniciativas de **AI Builder** e integração de IA no SDLC
-
-<div align="center">
-
-<sub><a href="README.md">English</a> · 🌐 <b>Português</b> · <a href="README.es.md">Español</a></sub>
-
-</div>
