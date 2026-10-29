@@ -4,7 +4,7 @@
 
 <img src="assets/banner.svg" alt="Matheus Mello — Senior Product Manager & Agile Coach" width="100%">
 
-*I turn messy problems into products people use, and I'm building AI-assisted workflows for product teams.*
+*I turn problems into products people use, and I'm building AI-assisted workflows for product and project teams.*
 
 <a href="https://www.linkedin.com/in/matheusmello00/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:m.mello00@outlook.com"><img src="https://img.shields.io/badge/Email-Say%20hello-6D1A36?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
@@ -22,27 +22,17 @@
 
 | If you need… | Go to |
 |---|---|
-| Skills for **Product Managers** (discovery, prioritization, specs) | [Product and Project Manager Skills](https://github.com/matheusmello00/Product-and-Project-Manager-Skills) |
+| Skills for **Product/Project Managers** (discovery, prioritization, specs) | [Product and Project Manager Skills](https://github.com/matheusmello00/Product-and-Project-Manager-Skills) |
 | Skills for **Agile Coaches** (facilitation, delivery, retros) | [Agile Delivery Skills](https://github.com/matheusmello00/Agile-Delivery-Skills) |
-| To **talk to me** | [LinkedIn](https://www.linkedin.com/in/matheusmello00/) · [Email](mailto:m.mello00@outlook.com) · [WhatsApp](https://wa.me/351920102358) |
 
 ## 🚀 Featured
 
 - **[Product and Project Manager Skills](https://github.com/matheusmello00/Product-and-Project-Manager-Skills)** – My own Product Manager skills for daily use.
 - **[Agile Delivery Skills](https://github.com/matheusmello00/Agile-Delivery-Skills)** – My own Agile Coach skills for daily use.
 
-> ### ⭐ Found something useful?
-> A star helps other product people find these skills. Thank you!
->
-> [⭐ Star PM Skills](https://github.com/matheusmello00/Product-and-Project-Manager-Skills) · [⭐ Star Agile Skills](https://github.com/matheusmello00/Agile-Delivery-Skills) · [👤 Follow me](https://github.com/matheusmello00?tab=followers)
-
 ## 🔭 Currently exploring
 
 Claude Code skills for **discovery**, **prioritization** and **facilitation**.
-
-## 📫 Contact
-
-[LinkedIn](https://www.linkedin.com/in/matheusmello00/) · [Email](mailto:m.mello00@outlook.com) · [WhatsApp](https://wa.me/351920102358)
 
 <div align="center">
 
